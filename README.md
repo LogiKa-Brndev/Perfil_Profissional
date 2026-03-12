@@ -1,1 +1,3 @@
-# Perfil_Profissional
+# Perfil Profissional
+
+Este foi meu segundo projeto na FATEC, dessa vez aprendemos mais sobre o HTML e a implementação do CSS, foi pedido para que cada aluno criasse um site com foto e uma breve descrição do mesmo, contendo 2 ou mais botões que levam a redes sociais e etc...
